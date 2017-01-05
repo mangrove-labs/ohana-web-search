@@ -226,6 +226,9 @@ info_box_terms:
 language_links:
   - 'English: en'
   - 'Español: es'
+  - 'Kreyòl: ht'
+  - 'Français: fr'
+  - 'Português: pt'
 
 ######################
 #
@@ -236,7 +239,8 @@ language_links:
 # This setting defines the filename for the site logo, which should be placed
 # in the 'app/assets/images' directory. The site logo is the one that appears
 # in the top left corner of the site.
-site_logo: app_logo.png
+
+#site_logo: app_logo.png
 
 ######################
 #
@@ -252,7 +256,7 @@ site_logo: app_logo.png
 # to the end of the page title. For example, if you were viewing the page for
 # a location called "Health Insurance TeleCenter", the browser would display
 # "Health Insurance TeleCenter | Ohana Web Search" as the page title.
-site_title: Ohana Web Search
+site_title: Miami Community Services
 
 ###########################
 #
